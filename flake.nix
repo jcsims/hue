@@ -37,7 +37,7 @@
             ''
             ./.;
 
-          vendorHash = "sha256-WDqIOYEGr85eU6crclldnf4w9089+TsgbdnBAKhzRTM=";
+          vendorHash = "sha256-CwUP/hkVxDUKjRfNdg9XF3vmfuLKwsww7pMj45dsqXM=";
 
           meta = with lib; {
             description = "Control your Hue lights directly from your terminal.";
